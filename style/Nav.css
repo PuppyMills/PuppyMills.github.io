@@ -2,7 +2,7 @@ body{
     background-color: rgb(254, 255, 255);
 }
 ul li{
-    list-style: none;
+    list-style: circle;
 }
 /*Navegador*/
 nav {
