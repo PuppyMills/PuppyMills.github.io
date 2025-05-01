@@ -21,7 +21,7 @@ header {
 
 header h1 {
     font-size: 3rem; /* Cambiar el tamaño de la fuente */
-    color: #ff6f61; /* Color rojo */
+    color: #0700d3; /* Color rojo */
     font-weight: 800; /* Negrita */
     position: relative;
     padding-bottom: 20px; /* Espacio debajo del texto */
@@ -39,7 +39,7 @@ header h1::after {
     transform: translateX(-50%);
     width: 80px;
     height: 4px;
-    background-color: #ff6f61;
+    background-color: #02e3e3;
     border-radius: 2px;
 }
 
@@ -61,12 +61,12 @@ article {
 
 /* Secciones */
 section h2 {
-    color: #d94f4f;
+    color: #0700d3;
     margin-top: 0;
 }
 
 section h3 {
-    color: #555;
+    color: #1976d2;
     margin-bottom: 10px;
 }
 
@@ -81,7 +81,7 @@ ul li {
 
 /* Negritas con más impacto */
 b {
-    color: #b30000;
+    color: #0f4f8f;
 }
 
 /* Responsivo */
